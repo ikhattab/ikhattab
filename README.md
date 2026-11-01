@@ -14,11 +14,11 @@ Software engineer in Cairo. I write about code, tools, and the things I learn al
 #### Recent writing
 
 <!-- posts:start -->
+- [How the Browser Draws a Frame](https://ihabkhattab.com/blog/how-the-browser-draws-a-frame/)
+- [I Set the Spinner Before the Work. Why Doesn't It Show?](https://ihabkhattab.com/blog/the-spinner-that-never-shows/)
 - [We Deployed an Hour Ago. Why Do Users Still See the Old Version?](https://ihabkhattab.com/blog/deployed-but-users-see-the-old-version/)
 - [One Search Box, Eight Questions: AbortController Beyond fetch](https://ihabkhattab.com/blog/abortcontroller-is-not-just-for-fetch/)
 - [Debounce vs Throttle: Wait for Quiet, or Keep a Steady Pace](https://ihabkhattab.com/blog/debounce-vs-throttle/)
-- [Favicons Next to External Links, Automatically](https://ihabkhattab.com/blog/favicons-next-to-external-links/)
-- [Cache Stampede: Why Your Cache Doesn’t Actually Cache](https://ihabkhattab.com/blog/cache-stampede-why-your-cache-doesnt-actually-cache/)
 <!-- posts:end -->
 
 [All posts](https://ihabkhattab.com/blog/) · [TIL](https://ihabkhattab.com/til/) · [RSS](https://ihabkhattab.com/rss.xml) · [X](https://x.com/HO_BA) · [LinkedIn](https://www.linkedin.com/in/ihabkhattab/)
