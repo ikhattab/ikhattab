@@ -5,7 +5,6 @@ Software engineer in Cairo. I write about code, tools, and the things I learn al
 #### Projects
 
 - [mdfor.dev](https://mdfor.dev/): a fast markdown editor with live preview, linting, math, and Mermaid diagrams. Everything stays in your browser. ([source](https://github.com/ikhattab/md-preview))
-- [stale-deploy-check](https://github.com/ikhattab/stale-deploy-check): finds why users still see the old version after a deploy. A CLI, a browser extension, an agent skill, and a GitHub Action.
 - [rehype-link-favicons](https://github.com/ikhattab/rehype-link-favicons): puts the linked site's favicon next to every external link in your Markdown. Works with Astro, Next.js, and any rehype pipeline.
 - [agentcmds.work](https://agentcmds.work/): tested slash commands for AI coding agents. Works in Cursor, Claude Code, Codex CLI, and Antigravity.
 - [dryisoverrated.com](https://dryisoverrated.com/): an essay on why duplication is cheaper than the wrong abstraction.
